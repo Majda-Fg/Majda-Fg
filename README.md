@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLModel](https://img.shields.io/badge/SQLModel-3C3489?style=flat&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLModel](https://img.shields.io/badge/SQLModel-3C3489?style=flat&logoColor=white)
 
 **Frontend**
 
@@ -62,11 +63,13 @@ Application web de gestion de garde-robe virtuel — Python · FastAPI · ReactJ
   ## 🌱 Ce que j'apprends en ce moment
 
 **En alternance — Paramedic**
+- Travailler sur une vraie codebase en équipe : branches, conflits, conventions, gérer des pull requests
+- Écrire des tests unitaires et d'intégration en conditions réelles
 - Être référente technique d'un stagiaire : transmettre, accompagner, expliquer
 
 **Projet RNCP 6 — The Virtual Closet**
 - Connecter le frontend React au backend FastAPI de bout en bout
-
+- Préparer la soutenance du titre RNCP 6 — Concepteur Développeur d'Applications
 
 ## 📬 Me contacter
 

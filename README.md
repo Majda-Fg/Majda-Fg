@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 👋🏼 Coucou, moi c'est Majda
 👩🏼‍💻Précédemment alternante chez **Paramedic** en tant que Concepteur Développeur d'Applications, j'y ai développé des fonctionnalités fullstack au quotidien (Python, FastAPI, ReactJS, MongoDB).<br>
-👩🏼‍🎓Je suis diplômée du titre RNCP 6 -Concepteur et Développeur d'Applications que j'avais préparé chez **Ada Tech School**. <br>
+👩🏼‍🎓Je suis diplômée du titre RNCP 6 - Concepteur et Développeur d'Applications que j'avais préparé chez **Ada Tech School**. <br>
 🔍Je suis à la recherche d'une **alternance en développement web fullstack** (BAC+5) pour une durée de **2 à 3 ans**, disponible à partir de **septembre 2026**.<br>
 📍Île-de-France
 
@@ -60,7 +60,7 @@ Application web de gestion de garde-robe virtuel — Python · FastAPI · ReactJ
 👥 Projet réalisé en binôme dans le cadre du titre RNCP 6 — Concepteur Développeur d'Applications
 
 
-  ## 🌱 Ce que j'apprends en ce moment
+  ## 🌱 Ce que j'ai appris dernièrement
 
 **En alternance — Paramedic**
 - Travailler sur une vraie codebase en équipe : branches, conflits, conventions, gérer des pull requests
